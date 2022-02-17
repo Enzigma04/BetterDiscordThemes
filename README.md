@@ -2,9 +2,12 @@
 Some personalized custom CSS for Better Discord
 
 Better Discord: https://betterdiscord.app
+
 Credit to ![MonstrousDev](https://github.com/monstrousdev) for the theme I learn from.
 
+
 So basically this is where you come to get personalized themes for your Better Discord.
+
 
 # Installation
 
